@@ -1,7 +1,7 @@
 
 # QR CODE Generator Program 
 
-This is qr code generator program that converts a user's text or link into a qr code using python.
+This is a qr code generator program that converts a user's text or link into a qr code image using python.
 
 ## Installation
 
